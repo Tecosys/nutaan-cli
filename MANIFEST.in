@@ -1,0 +1,7 @@
+include README.md
+include requirements.txt
+include LICENSE
+recursive-include nutaan *.py
+recursive-include nutaan *.json
+recursive-include nutaan *.md
+recursive-include nutaan *.txt
