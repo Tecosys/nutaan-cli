@@ -10,7 +10,7 @@
 
 ## 🎥 Demo
 
-> **Note:** Demo video available in releases - [Download Demo Video](https://github.com/Tecosys/nutaan-cli/releases)
+![Nutaan CLI Demo](assets/nutaan-cli-demo.gif)
 
 ## ✨ Features
 
