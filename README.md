@@ -8,6 +8,10 @@
 
 *Made by Tecosys*
 
+## 🎥 Demo
+
+![Nutaan CLI Demo](assets/nutaan-cli.mp4)
+
 ## ✨ Features
 
 - 🤖 **AI-Powered Assistant** - Advanced reasoning with LangGraph and OpenAI
