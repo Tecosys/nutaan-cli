@@ -432,12 +432,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🤝 **Team collaboration** - Shared plans and project management
 - 🔄 **CI/CD integration** - Automated workflows and deployments
 
-### Version History
-- **v1.0.0** - Initial release with plan tool and Rich UI
-- **v0.9.0** - Claude CLI-style tool displays
-- **v0.8.0** - Package structure and pip distribution
-- **v0.7.0** - Think mode and advanced reasoning
-
 ---
 
 **Made with ❤️ by Tecosys** | [Explore tecosys.in](https://tecosys.in) | [Visit nutaan.com](https://nutaan.com)
