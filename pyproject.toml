@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "nutaan-cli"
-version = "1.0.0"
+version = "1.0.1"
 description = "A powerful ReAct Python Assistant with AI capabilities"
 readme = "README.md"
 license = {text = "MIT"}
