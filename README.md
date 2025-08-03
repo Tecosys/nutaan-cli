@@ -432,6 +432,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🤝 **Team collaboration** - Shared plans and project management
 - 🔄 **CI/CD integration** - Automated workflows and deployments
 
+>[![Star History Chart](https://api.star-history.com/svg?repos=tecosys/nutaan-cli&type=Date)](https://star-history.com/#bytebase/star-history&Date)
 ---
 
 **Made with ❤️ by Tecosys** | [Explore tecosys.in](https://tecosys.in) | [Visit nutaan.com](https://nutaan.com)
